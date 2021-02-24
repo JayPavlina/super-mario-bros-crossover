@@ -1,0 +1,21 @@
+Contains numbers assigned to each enemy  object in the game. Use "find" to find things quickly. Be descriptive about what the item is.
+
+------------------------------------------------
+Interface
+------------------------------------------------
+1 - Coin Symbol
+2 - Menu Font
+	1 - normal
+	2 - selected
+	3 - disabled
+        4 - credits
+	5 - character name (char select) [currently unused]
+	6 - character skin name (char select) [currently unused]
+	7 - game name (char select) [currently unused]
+3 - HUD Font
+	1 - normal
+	2 - outline [currently unused]
+4 - Menu Cursor
+5 - Score Font
+6 - Char Select Cursor Normal
+7 - Char Select Cursor Revive Mode

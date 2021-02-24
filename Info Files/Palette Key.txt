@@ -1,0 +1,9 @@
+Palette Row Indicator Key
+--------------------------
+Magenta   (255, 000, 255) : Base Palette
+Yellow    (255, 255, 000) : New Palette Row
+Red       (255, 000, 000) : Extended Palette Row
+Green     (000, 255, 000) : Flash Palette
+Turquoise (000, 255, 255) : Frame Delay
+Blue      (000, 000, 255) : - No use yet -
+Black	  (000, 000, 000) : Dummy Palette (has no use, just used for visual difference)

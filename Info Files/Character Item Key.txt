@@ -1,0 +1,129 @@
+Contains numbers assigned to each character in the game. Use "find" to find things quickly. Be descriptive about what the item is.
+
+STORE NAMES IN ALPHABETICAL ORDER
+
+------------------------------------------------
+Bass
+-------------------------------------------------
+See "Mega Man"
+
+------------------------------------------------
+Bill
+-------------------------------------------------
+1 - Bill
+2 - Bill Flash Power up
+3 - Bill Flash Star
+4 - Reserved
+5 - Reserved
+6 - Eagle Powerup (Not in use)
+
+------------------------------------------------
+Link
+-------------------------------------------------
+1 - Link
+2 - Link Flash Power up
+3 - Link Flash Star
+4 - Reserved
+5 - Reserved
+6 - Portrait
+7 - Sword (not used)
+8 - Enemy Explosion
+
+------------------------------------------------
+Luigi
+-------------------------------------------------
+See "Mario"
+
+------------------------------------------------
+Mario
+-------------------------------------------------
+1 - Mario
+2 - Mario Flash Power up
+3 - Mario Flash Star
+4 - Portrait
+5 - Reserved
+6 - Fireball
+7 - Fire Flower normal (not used in this game)
+8 - Fire Flower under ground (not used in this game)
+9 - Star (not used in this game)
+
+------------------------------------------------
+Mega Man
+-------------------------------------------------
+1 - Mega Man (Suit Colors)
+2 - Mega Man Flash Power up
+3 - Mega Man Flash Star
+4 - Mega Man Charge Mega Buster
+5 - Mega Man Charge Magma Bazooka
+6 - Portrait
+
+------------------------------------------------
+Pit
+-------------------------------------------------
+1 - Pit (attack strength upgrades)
+2 - Pit Flash Power up
+3 - Pit Flash Star
+4 - Shield diamonds
+5 - Portrait
+
+------------------------------------------------
+Ryu
+------------------------------------------------
+1 - Ryu
+2 - Ryu Flash Power up
+3 - Ryu Flash Star
+4 - Reserved
+5 - Reserved
+------------------------------------------------
+Samus
+-------------------------------------------------
+1 - Samus
+ - 1 power suit
+ - 2 power suit missile mode
+ - 3 varia suit
+ - 4 varia suit missile mode
+2 - Samus Flash Power up
+3 - Samus Flash Star
+4 - Samus Flash Screw Attack
+5 - Portrait
+6 - Varia Suit
+7 - Long Beam
+8 - Ice Beam
+9 - Wave Beam
+10 - Morph Ball
+11 - Morph Ball Bombs
+12 - Missile
+13 - Missile Expansion
+14 - High Jump Boots
+15 - Screw Attack
+16 - Missile Refill
+
+------------------------------------------------
+Simon
+-------------------------------------------------
+1 - Simon
+2 - Simon Flash Power up
+3 - Simon Flash Star
+4 - Reserved
+5 - Reserved
+6 - Whip
+
+------------------------------------------------
+Sophia
+-------------------------------------------------
+1 - Sophia
+2 - Sophia Flash Power up
+3 - Sophia Flash Star
+4 - Reserved
+5 - Reserved
+6 - Lightning (Not in use)
+7 - Jason
+8 - Crusher
+9 - Hover/Health Bar (Not in use)
+
+------------------------------------------------
+Vic Viper
+-------------------------------------------------
+1 - Vic Viper
+2 - Vic Viper Flash Power up (Not in use?)
+3 - Vic Viper Flash Star

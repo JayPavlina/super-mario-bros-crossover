@@ -1,0 +1,93 @@
+<projectDescription>
+  <id>1256871502968</id>
+  <name>superMarioBrosCrossover</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///Mac/Users/jay/Library/Application Support/Adobe/Flash CS4/en/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///Mac/Users/jay/Library/Application Support/Adobe/Flash CS4/en/Configuration/Project/templates/standardClass_as3.as</classTemplate>
+  <classPath>./com/smbc</classPath>
+  <defaultApp>file:///Mac/Users/jay/Games/Super%20Mario%20Bros.%20Crossover/src/SuperMarioBrosCrossover.fla</defaultApp>
+  <rootURI>file:///Mac/Users/jay/Games/Super%20Mario%20Bros.%20Crossover/src/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="HRect.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/data/HRect.as</uri>
+    <uri label="SuperMarioBrosCrossover.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/SuperMarioBrosCrossover.as</uri>
+    <uri label="LevObj.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/main/LevObj.as</uri>
+    <uri label="LevelSelector.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/level/LevelSelector.as</uri>
+    <uri label="Scenery.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/background/Scenery.as</uri>
+    <uri label="Ground.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/ground/Ground.as</uri>
+    <uri label="Enemy.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/enemies/Enemy.as</uri>
+    <uri label="SimonProjectile.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/projectiles/SimonProjectile.as</uri>
+    <uri label="BillBullet.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/projectiles/BillBullet.as</uri>
+    <uri label="FlyingCoin.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/projectiles/FlyingCoin.as</uri>
+    <uri label="AnimatedObject.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/main/AnimatedObject.as</uri>
+    <uri label="Projectile.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/projectiles/Projectile.as</uri>
+    <uri label="GV.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/main/GV.as</uri>
+    <uri label="Pickup.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/pickups/Pickup.as</uri>
+    <uri label="Platform.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/ground/Platform.as</uri>
+    <uri label="Character.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/characters/Character.as</uri>
+    <uri label="Level.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/level/Level.as</uri>
+    <uri label="PipeTransporter.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/pickups/PipeTransporter.as</uri>
+    <uri label="FrameRateProfiler.as">file:///Mac/Users/jay/Games/Classes/src/com/customClasses/FrameRateProfiler.as</uri>
+    <uri label="SuperMarioBrosCrossover.fla">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/SuperMarioBrosCrossover.fla</uri>
+    <uri label="Goomba.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/enemies/Goomba.as</uri>
+    <uri label="Bill.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/characters/Bill.as</uri>
+    <uri label="Piranha.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/enemies/Piranha.as</uri>
+    <uri label="MegaMan.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/characters/MegaMan.as</uri>
+    <uri label="Samus.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/characters/Samus.as</uri>
+    <uri label="LevelData.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/level/LevelData.as</uri>
+    <uri label="SamusShot.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/projectiles/SamusShot.as</uri>
+    <uri label="SamusBomb.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/projectiles/SamusBomb.as</uri>
+    <uri label="Brick.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/ground/Brick.as</uri>
+    <uri label="BowserAxe.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/pickups/BowserAxe.as</uri>
+    <uri label="Link.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/characters/Link.as</uri>
+    <uri label="PitVacuum.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/enemies/PitVacuum.as</uri>
+    <uri label="HammerBro.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/enemies/HammerBro.as</uri>
+    <uri label="Beetle.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/enemies/Beetle.as</uri>
+    <uri label="Koopa.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/enemies/Koopa.as</uri>
+    <uri label="Spiney.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/enemies/Spiney.as</uri>
+    <uri label="Mario.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/characters/Mario.as</uri>
+    <uri label="LinkBoomerang.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/projectiles/LinkBoomerang.as</uri>
+    <uri label="Bowser.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/enemies/Bowser.as</uri>
+    <uri label="LavaFireBall.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/projectiles/LavaFireBall.as</uri>
+    <uri label="LakituSpawner.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/level/LakituSpawner.as</uri>
+    <uri label="Lakitu.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/enemies/Lakitu.as</uri>
+    <uri label="Simon.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/characters/Simon.as</uri>
+    <uri label="Cheep.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/enemies/Cheep.as</uri>
+    <uri label="Bloopa.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/enemies/Bloopa.as</uri>
+    <uri label="Spring.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/ground/Spring.as</uri>
+    <uri label="Canon.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/ground/Canon.as</uri>
+    <uri label="EnemySpawner.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/level/EnemySpawner.as</uri>
+    <uri label="Teleporter.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/pickups/Teleporter.as</uri>
+    <uri label="HitTester.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/data/HitTester.as</uri>
+    <uri label="FireBar.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/projectiles/FireBar.as</uri>
+    <uri label="Coin.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/pickups/Coin.as</uri>
+    <uri label="Background.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/background/Background.as</uri>
+    <uri label="FlyingCheepSpawner.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/level/FlyingCheepSpawner.as</uri>
+    <uri label="Hammer.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/projectiles/Hammer.as</uri>
+    <uri label="PullyRope.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/background/PullyRope.as</uri>
+    <uri label="MegaManBullet.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/projectiles/MegaManBullet.as</uri>
+    <uri label="BowserFireBall.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/projectiles/BowserFireBall.as</uri>
+    <uri label="Bubble.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/projectiles/Bubble.as</uri>
+    <uri label="ItemBlock.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/ground/ItemBlock.as</uri>
+    <uri label="BowserBridge.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/ground/BowserBridge.as</uri>
+    <uri label="BrickPiece.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/projectiles/BrickPiece.as</uri>
+    <uri label="MarioFireBall.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/projectiles/MarioFireBall.as</uri>
+    <uri label="MCAnimator.as">file:///Mac/Users/jay/Games/Classes/src/com/customClasses/MCAnimator.as</uri>
+    <uri label="BackgroundMusic.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/sound/BackgroundMusic.as</uri>
+    <uri label="Mushroom.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/pickups/Mushroom.as</uri>
+    <uri label="Bullet.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/projectiles/Bullet.as</uri>
+    <uri label="LinkSwordProjectile.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/projectiles/LinkSwordProjectile.as</uri>
+    <uri label="SoundEffect.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/sound/SoundEffect.as</uri>
+    <uri label="MusicEffect.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/sound/MusicEffect.as</uri>
+    <uri label="TDCalculator.as">file:///Mac/Users/jay/Games/Classes/src/com/customClasses/TDCalculator.as</uri>
+    <uri label="Pipe.as">file:///Mac/Users/jay/Games/Super Mario Bros. Crossover/src/com/smbc/ground/Pipe.as</uri>
+    <uri label="FrameRateMeter.as">file:///Mac/Users/jay/Games/Classes/src/com/customClasses/FrameRateMeter.as</uri>
+  </recentFiles>
+  <locations editable="true">
+    <uri label="customClasses">file:///Mac/Users/jay/Games/Classes/src/com/customClasses/</uri>
+  </locations>
+</projectDescription>

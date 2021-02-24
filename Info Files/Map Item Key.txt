@@ -1,0 +1,76 @@
+Contains numbers assigned to each map object in the game. Use "find" to find things quickly. Be descriptive about what the item is.
+
+1 - 39 are reserved for theme
+-------------------------------------------------
+theme objects
+-------------------------------------------------
+1 - Normal Ground (entire set)
+2 - Normal Block (entire set)
+3 - Bushes (Grass)
+4 - Fence
+5 - Tall tree
+6 - Short tree
+7 - Standard Platform (includes stem and single piece)
+8 - Coral Horizontal
+9 - Coral Vertical
+
+10 - Moving Platform
+11 - Railing (3 piece)
+12 - Alternating Brick set (Upper Castle Bricks)
+13 - Bowser Bridge
+14 - Flag Pole Block
+15 - Fire Bar Block
+16 - Thin Ground
+17 - Single Piece Ground
+
+---------------------------------------------------
+regular objects
+---------------------------------------------------
+40 - Pipe
+41 - Hill
+42 - Cloud
+43 - Mushroom
+44 - Poison Mushroom
+45 - Fire Flower
+46 - 1up
+47 - Star
+48 - Yoshi Egg
+49 - Green Spring
+
+50 - Red Spring
+51 - Brick
+52 - NonItemBlock Hit Resting (for coin bricks and hidden items)
+53 - Bounceable Block Hit Moving
+54 - Item Block Hit Resting
+55 - Item Block
+56 - Vine
+57 - Coin
+58 - Coin Spin
+59 - Red Coin
+
+60 - Axe
+61 - Brick Piece
+62 - Water Swim Stage
+63 - Water Regular Stage
+64 - Lava
+65 - Firework
+66 - Coin Explosion
+67 - Bridge Crumble
+68 - Pully
+69 - Bill Launcher (Cannon) (Bill Blaster)
+
+70 - Flag Pole
+71 - Flag Pole Flag
+72 - Castle Flag ------------ there was never a palette for this
+73 - Big Castle
+74 - Small Castle
+75 - Axe (obtained)
+76 - Leaves
+77 - Hudson Bee
+78 - Hammer
+79 - Wing
+
+80 - Clock
+81 - Lucky Star (Atom)
+82 - Exploding Rabbit Powerup
+83 - Brick Wall

@@ -1,0 +1,14 @@
+bg_www_xx_yy_zz
+
+www = skin number
+xx = theme number
+yy = set number*
+zz = layer number**
+
+
+
+*Set should match palette used in theme. If backgrounds do not exist for current set, 00 will be used.
+
+**Lowest number = bottom layer. Highest number = top layer
+
+All backgrounds must have a set 00 and layer 00 for each theme. If item is a foreground instead of a background, use "fg" instead of "bg".

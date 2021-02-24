@@ -1,0 +1,33 @@
+Contains numbers assigned to each enemy  object in the game. Use "find" to find things quickly. Be descriptive about what the item is.
+
+------------------------------------------------
+Enemies
+------------------------------------------------
+1 - Goomba
+2 - Buzzy Beetle
+3 - Spike Top
+4 - Spiny Beetle
+5 - Green Koopa
+6 - Red Koopa
+7 - Green Pirahna
+8 - Red Pirahna
+9 - Blooper
+10 - Fast Cheep Cheep
+
+11 - Slow Cheep Cheep
+12 - Flying Cheep Cheep
+13 - Hammer Bros
+14 - Lakitu
+15 - Bullet Bill
+16 - Bowser
+17 - Hammer
+18 - Podoboo (Lava fireball)
+19 - Fire Bar
+20 - Bowser Fire
+
+21 - Bowser Hammer
+22 - Sidestepper (Crab)
+23 - Fighter Fly
+24 - Fire
+25 - Barrel
+26 - Icicle
